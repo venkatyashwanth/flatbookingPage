@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.backgroundApp{
+    width: 40vw;
+    margin: auto;
+}
+
+.home-bgImg{
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+.card-background{
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.heading{
+    margin-top: 15px;
+    color: #f19116;
+    font-size: 28px;
+    font-family: 'Bree Serif';
+}
+.sub-description{
+    font-family: "Bree Serif";
+    color: #7b8794;
+    font-size: 16px;
+}
+.button{
+    background-color: #f19116;
+    color: #ffffff;
+    border-width: 0;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100px;
+    margin-bottom: 5px;
+}
+
+.cardsList-bgColor{
+    background-color: #222222;
+    background-size: cover;
+    padding: 14px;
+    min-height: 100vh;
+}
+.cardImg{
+    height: 200px;
+    width: 100px;
+}
+.home-info-card-text{
+    font-family: "Bree Serif";
+    color: #f19116;
+    font-size: 24px;
+}
+.cardlist-htext{
+    font-family: "Bree Serif";
+    color: #0f0e46;
+    font-size: 24px;
+}
+.cardlist-ptext{
+    font-family: "Bree Serif";
+    color: #6c6b70;
+    font-size: 18px;
+}
+.cardlist-description{
+    padding: 5px;
+}
+.lists-card-detail{
+    background-color: #ffffff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 480px;
+}
+
+.detail-desc-img{
+    width: 40vw;
+    height: 30vh;
+}
+.page-bgcolor{
+    background-color: #222222;
+    height: 100vh;
+}
+.detail-infocard{
+    padding: 10px;
+}
+
+.location-imgform{
+    height: 30px;
+    width: 30px;
+}
+.price-tag{
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 24px;
+}
+.detail-infocard-location-txt{
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 14px;
+    margin-top: 2px;
+    margin-left: 5px;
+}
+.hr-line-form{
+    border-color: white;
+    border-width: 2px;
+}
+.detail-desc-htext{
+    color: #f19116;
+    font-size: 24px;
+    font-family: "Bree Serif";
+}
+.detail-desc-ptext{
+    color: #ffffff;
+    font-size: 18px;
+    font-family: "Bree Serif";
+    width: 450px;
+    text-align: justify;
+}
